@@ -2,7 +2,7 @@
 Data Analysis and Visualization using SQL and Power BI
 
 # Requirements: 
-Build Visualization data story/dashboard to present to stakeholder
+Build Visualization data story/dashboard to present to stakeholder <br />
   -Is out hotel revenue growing by year? <br />
   -Should we increase our parking lot size? <br />
   -What trends can we see in the data <br />
